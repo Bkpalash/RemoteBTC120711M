@@ -1,0 +1,2 @@
+this is git class
+learing linux command at the same time
